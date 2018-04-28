@@ -647,8 +647,8 @@ int myAdventurer(struct gameState *state,  int currentPlayer, int temphand[MAX_H
 	int drawntreasure=0;
 	int cardDrawn;
 	int z = 0;// this is the counter for the temp hand
-	state = NULL; //new code
-    while(drawntreasure<2){
+	//state = NULL; //old bug that causes seg fault
+    while(drawntreasure<6){  // new bug that does not cause seg fault
 	    if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
 	        shuffle(currentPlayer, state);
 	    }
