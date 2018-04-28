@@ -58,7 +58,7 @@ int main() {
 	handPos = 0;
 	cardEffect(sea_hag, choice1, choice2, choice3, &testG, handPos, &bonus);
 
-	// technically first player will gain +4 cards but we will have to discard played card so that's why final gain is 3 total
+        // Check if top card is curse card
 	for(thisPlayer = 0; thisPlayer < numPlayers; thisPlayer++) {
 		if(thisPlayer > 0) {
 			printf("Player%d: top deck card = %d, expected = %d\n", thisPlayer, testG.deck[thisPlayer][testG.deckCount[thisPlayer] + 1], curse);
