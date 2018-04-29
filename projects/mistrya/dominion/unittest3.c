@@ -58,7 +58,7 @@ int main() {
 	// Perform functin isGameOver to check if three supply pile is empty.
     for(i = 0; i < 25; i++){
 	 // Initilize supplyCount.
-    state.supplyCount[i] = 0;
+    state.supplyCount[province] = 1;
 	}
 	result = isGameOver(&state);
 	printf("    The result is %d.. \n", result);
