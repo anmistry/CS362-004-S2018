@@ -60,7 +60,7 @@ int main() {
 	cardEffect(council_room, choice1, choice2, choice3, &testG, handPos, &bonus);
 
 	// technically first player will gain +4 cards but we will have to discard played card so that's why final gain is 3 total
-	newCards = 3;
+	newCards = 4;
 	for(thisPlayer = 0; thisPlayer < numPlayers; thisPlayer++) {
 
 		// the rest of the player only gain 1 new card
