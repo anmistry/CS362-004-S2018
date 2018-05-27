@@ -1,0 +1,1621 @@
+handcount[0] = 1
+handcount[0] = 2
+handcount[0] = 3
+handcount[0] = 4
+handcount[0] = 5
+----------------- Testing Card: adventurer ----------------
+
+TEST Number 1:
+Random deckCount: 1
+handcount[0] = 1
+z = 1
+shuffle
+deckCount = 0
+z = 2
+shuffle
+deckCount = 0
+z = 3
+shuffle
+deckCount = 0
+z = 4
+shuffle
+deckCount = 0
+z = 5
+shuffle
+deckCount = 0
+z = 6
+shuffle
+deckCount = 0
+z = 7
+shuffle
+deckCount = 0
+z = 8
+shuffle
+deckCount = 0
+z = 9
+shuffle
+deckCount = 0
+z = 10
+shuffle
+deckCount = 0
+z = 11
+shuffle
+deckCount = 0
+z = 12
+shuffle
+deckCount = 0
+z = 13
+shuffle
+deckCount = 0
+z = 14
+shuffle
+deckCount = 0
+z = 15
+shuffle
+deckCount = 0
+z = 16
+shuffle
+deckCount = 0
+z = 17
+shuffle
+deckCount = 0
+z = 18
+shuffle
+deckCount = 0
+z = 19
+shuffle
+deckCount = 0
+z = 20
+shuffle
+deckCount = 0
+z = 21
+shuffle
+deckCount = 0
+z = 22
+shuffle
+deckCount = 0
+z = 23
+shuffle
+deckCount = 0
+z = 24
+shuffle
+deckCount = 0
+z = 25
+shuffle
+deckCount = 0
+z = 26
+shuffle
+deckCount = 0
+z = 27
+shuffle
+deckCount = 0
+z = 28
+shuffle
+deckCount = 0
+z = 29
+shuffle
+deckCount = 0
+z = 30
+shuffle
+deckCount = 0
+z = 31
+shuffle
+deckCount = 0
+z = 32
+shuffle
+deckCount = 0
+z = 33
+shuffle
+deckCount = 0
+z = 34
+shuffle
+deckCount = 0
+z = 35
+shuffle
+deckCount = 0
+z = 36
+shuffle
+deckCount = 0
+z = 37
+shuffle
+deckCount = 0
+z = 38
+shuffle
+deckCount = 0
+z = 39
+shuffle
+deckCount = 0
+z = 40
+shuffle
+deckCount = 0
+z = 41
+shuffle
+deckCount = 0
+z = 42
+shuffle
+deckCount = 0
+z = 43
+shuffle
+deckCount = 0
+z = 44
+shuffle
+deckCount = 0
+z = 45
+shuffle
+deckCount = 0
+z = 46
+shuffle
+deckCount = 0
+z = 47
+shuffle
+deckCount = 0
+z = 48
+shuffle
+deckCount = 0
+z = 49
+shuffle
+deckCount = 0
+z = 50
+shuffle
+deckCount = 0
+z = 51
+shuffle
+deckCount = 0
+z = 52
+shuffle
+deckCount = 0
+z = 53
+shuffle
+deckCount = 0
+z = 54
+shuffle
+deckCount = 0
+z = 55
+shuffle
+deckCount = 0
+z = 56
+shuffle
+deckCount = 0
+z = 57
+shuffle
+deckCount = 0
+z = 58
+shuffle
+deckCount = 0
+z = 59
+shuffle
+deckCount = 0
+z = 60
+shuffle
+deckCount = 0
+z = 61
+shuffle
+deckCount = 0
+z = 62
+shuffle
+deckCount = 0
+z = 63
+shuffle
+deckCount = 0
+z = 64
+shuffle
+deckCount = 0
+z = 65
+shuffle
+deckCount = 0
+z = 66
+shuffle
+deckCount = 0
+z = 67
+shuffle
+deckCount = 0
+z = 68
+shuffle
+deckCount = 0
+z = 69
+shuffle
+deckCount = 0
+z = 70
+shuffle
+deckCount = 0
+z = 71
+shuffle
+deckCount = 0
+z = 72
+shuffle
+deckCount = 0
+z = 73
+shuffle
+deckCount = 0
+z = 74
+shuffle
+deckCount = 0
+z = 75
+shuffle
+deckCount = 0
+z = 76
+shuffle
+deckCount = 0
+z = 77
+shuffle
+deckCount = 0
+z = 78
+shuffle
+deckCount = 0
+z = 79
+shuffle
+deckCount = 0
+z = 80
+shuffle
+deckCount = 0
+z = 81
+shuffle
+deckCount = 0
+z = 82
+shuffle
+deckCount = 0
+z = 83
+shuffle
+deckCount = 0
+z = 84
+shuffle
+deckCount = 0
+z = 85
+shuffle
+deckCount = 0
+z = 86
+shuffle
+deckCount = 0
+z = 87
+shuffle
+deckCount = 0
+z = 88
+shuffle
+deckCount = 0
+z = 89
+shuffle
+deckCount = 0
+z = 90
+shuffle
+deckCount = 0
+z = 91
+shuffle
+deckCount = 0
+z = 92
+shuffle
+deckCount = 0
+z = 93
+shuffle
+deckCount = 0
+z = 94
+shuffle
+deckCount = 0
+z = 95
+shuffle
+deckCount = 0
+z = 96
+shuffle
+deckCount = 0
+z = 97
+shuffle
+deckCount = 0
+z = 98
+shuffle
+deckCount = 0
+z = 99
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -98, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 2:
+Random deckCount: 0
+shuffle
+deckCount = 0
+z = 1
+shuffle
+deckCount = 0
+z = 2
+shuffle
+deckCount = 0
+z = 3
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 3:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 4:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 5:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 6:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 7:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 8:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 9:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 10:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 11:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 12:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 13:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 14:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 15:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 16:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 17:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 18:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 19:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 20:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 21:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 22:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 23:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 24:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 25:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 26:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 27:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 28:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 29:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 30:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 31:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 32:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 33:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 34:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 35:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 36:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 37:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 38:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 39:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 40:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 41:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 42:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 43:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 44:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 45:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 46:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 47:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 48:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 49:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 50:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 51:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 52:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 53:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 54:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 55:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 56:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 57:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 58:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 59:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 60:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 61:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 62:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 63:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 64:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 65:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 66:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 67:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 68:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 69:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 70:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 71:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 72:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 73:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 74:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 75:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 76:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 77:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 78:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 79:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 80:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 81:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 82:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 83:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 84:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 85:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 86:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 87:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 88:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 89:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 90:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 91:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 92:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 93:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 94:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 95:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 96:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 97:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 98:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 99:
+Random deckCount: 0
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+
+TEST Number 100:
+Random deckCount: 1
+handcount[0] = -100
+z = 1
+shuffle
+deckCount = 0
+drawntreasure = 1
+shuffle
+deckCount = 0
+drawntreasure = 2
+z end = 0
+hand count = -101, expected = 7
+>>>>> STATUS:  TEST FAILED <<<<<
+------------ Completed Testing Card: adventurer ------------
+
