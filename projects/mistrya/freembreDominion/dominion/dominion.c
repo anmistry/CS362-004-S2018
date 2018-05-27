@@ -28,7 +28,7 @@ int smithyCard (int currentPlayer, struct gameState *state, int handPos) {
 
 int adventurerCard (int currentPlayer, struct gameState *state) {
     
-    int temphand[MAX_HAND];//5]; //changed from MAX_HAND to 5
+    int temphand[5]; //changed from MAX_HAND to 5
     int drawntreasure=0;
     int cardDrawn;
     int z = 0;// this is the counter for the temp hand
@@ -841,7 +841,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
     {
     case adventurer:
             adventurerCard(currentPlayer, state);
-return 0; 
+            return 0;  // Bug Fix
    case council_room:
       //+4 Cards
       for (i = 0; i < 4; i++)
@@ -962,7 +962,7 @@ return 0;
              
     case smithy: //use refactored function
             smithyCard(currentPlayer, state, handPos);
-	return 0;	
+	return 0;  // Bug fix	
     case village:
       //+1 Card
       drawCard(currentPlayer, state);
